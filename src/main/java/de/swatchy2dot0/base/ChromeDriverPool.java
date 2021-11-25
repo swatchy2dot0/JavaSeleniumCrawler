@@ -1,4 +1,4 @@
-package de.urmann.base;
+package de.swatchy2dot0.base;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.lang3.StringUtils;

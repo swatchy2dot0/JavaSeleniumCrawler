@@ -1,7 +1,7 @@
-package de.urmann.example;
+package de.swatchy2dot0.example;
 
-import de.urmann.base.ChromeDriverPool;
-import de.urmann.base.RuntimeContext;
+import de.swatchy2dot0.base.ChromeDriverPool;
+import de.swatchy2dot0.base.RuntimeContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

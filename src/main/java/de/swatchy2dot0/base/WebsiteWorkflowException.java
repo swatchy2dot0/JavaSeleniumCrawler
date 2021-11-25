@@ -1,4 +1,4 @@
-package de.urmann.base;
+package de.swatchy2dot0.base;
 
 public class WebsiteWorkflowException extends RuntimeException {
 

@@ -1,7 +1,7 @@
-package de.urmann.example;
+package de.swatchy2dot0.example;
 
-import de.urmann.base.AbstractCrawler;
-import de.urmann.base.ChromeDriverPool;
+import de.swatchy2dot0.base.AbstractCrawler;
+import de.swatchy2dot0.base.ChromeDriverPool;
 
 import java.io.IOException;
 

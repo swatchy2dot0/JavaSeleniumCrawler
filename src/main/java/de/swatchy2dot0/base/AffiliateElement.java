@@ -1,4 +1,4 @@
-package de.urmann.base;
+package de.swatchy2dot0.base;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
