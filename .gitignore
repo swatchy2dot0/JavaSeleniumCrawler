@@ -1,0 +1,6 @@
+/.idea/
+/Java Selenium Crawler.iml
+/*.txt
+/*.data
+/*.properties
+/target/**/*
